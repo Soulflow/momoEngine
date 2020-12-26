@@ -1,0 +1,6 @@
+{
+  "finger": "532ca3dd-2104-4799-8fd2-9f4b16e5cdc9",
+  "api_addr": ":9090",
+  "log_level": "debug",
+  "jwt_secret": "15598870762"
+}
